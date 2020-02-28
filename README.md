@@ -28,9 +28,9 @@ $ yarn sequelize db:migrate
 $ yarn sequelize db:seed:all
 ```
 
-#### Executar a aplicação
+#### Executar a aplicação:
 ```bash
 $ yarn dev
 ```
 
-Tudo certo, agora você está pronto pra rodar as requisições via postman ou Insomnia
+Tudo certo, agora você está pronto pra rodar as requisições via Postman ou Insomnia
